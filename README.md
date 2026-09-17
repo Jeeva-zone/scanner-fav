@@ -1,5 +1,7 @@
 # StatusPing By Sivd 🌐
 
+> **BY SIVD**
+
 **StatusPing By Sivd** is a fast, modern Android network diagnostic and HTTP status code checker built with **Kotlin** and **Jetpack Compose (Material 3)**.
 
 ---
@@ -61,6 +63,11 @@ The compiled APK will be located at:
 ```
 app/build/outputs/apk/debug/app-debug.apk
 ```
+
+---
+
+## 👤 Author
+Developed and maintained **BY SIVD**.
 
 ---
 
