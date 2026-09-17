@@ -1,6 +1,6 @@
-# StatusPing 🌐
+# StatusPing By Sivd 🌐
 
-**StatusPing** is a fast, modern Android network diagnostic and HTTP status code checker built with **Kotlin** and **Jetpack Compose (Material 3)**.
+**StatusPing By Sivd** is a fast, modern Android network diagnostic and HTTP status code checker built with **Kotlin** and **Jetpack Compose (Material 3)**.
 
 ---
 

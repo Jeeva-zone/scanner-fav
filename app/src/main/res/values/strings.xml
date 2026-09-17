@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">StatusPing</string>
+    <string name="app_name">StatusPing By Sivd</string>
     <string name="app_subtitle">HTTP response checker</string>
     <string name="input_label">IP address or URL</string>
     <string name="input_placeholder">192.168.1.1 or example.com</string>
